@@ -1,2 +1,2 @@
-<<Anthony Shephard>>
-<<SI 338 Fall 2025>>
+# Anthony Shephard
+# SI 338 Fall 2025
