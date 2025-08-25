@@ -1,2 +1,2 @@
-# antshep-umich.github.io
-SI 338 Pages
+<<Anthony Shephard>>
+<<SI 338 Fall 2025>>
